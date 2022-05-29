@@ -1,0 +1,1104 @@
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\appsettings.json
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.staticwebassets.runtime.json
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.exe
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.deps.json
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.runtimeconfig.json
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.pdb
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\MessagePack.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.AssemblyReference.cache
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.AssemblyInfoInputs.cache
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.AssemblyInfo.cs
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.CoreCompileInputs.cache
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.RazorAssemblyInfo.cache
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.RazorAssemblyInfo.cs
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\bundle\SistemaFilmes.styles.css
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\projectbundle\SistemaFilmes.bundle.scp.css
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.CopyComplete
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\refint\SistemaFilmes.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.pdb
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.genruntimeconfig.cache
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\ref\SistemaFilmes.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dodoe\source\repos\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\appsettings.json
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.staticwebassets.runtime.json
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.exe
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.deps.json
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.runtimeconfig.json
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.pdb
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\MessagePack.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.AssemblyReference.cache
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.AssemblyInfoInputs.cache
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.AssemblyInfo.cs
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.CoreCompileInputs.cache
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.RazorAssemblyInfo.cache
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.RazorAssemblyInfo.cs
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\bundle\SistemaFilmes.styles.css
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\projectbundle\SistemaFilmes.bundle.scp.css
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.CopyComplete
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\refint\SistemaFilmes.dll
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.pdb
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.genruntimeconfig.cache
+C:\Users\edson\OneDrive\Área de Trabalho\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\ref\SistemaFilmes.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\appsettings.Development.json
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\appsettings.json
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.staticwebassets.runtime.json
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.exe
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.deps.json
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.runtimeconfig.json
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.pdb
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Humanizer.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\MessagePack.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Common.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.AssemblyReference.cache
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.GeneratedMSBuildEditorConfig.editorconfig
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.AssemblyInfoInputs.cache
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.AssemblyInfo.cs
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.CoreCompileInputs.cache
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.MvcApplicationPartsAssemblyInfo.cs
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.MvcApplicationPartsAssemblyInfo.cache
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.RazorAssemblyInfo.cache
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.RazorAssemblyInfo.cs
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\staticwebassets.build.json
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\staticwebassets.development.json
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\bundle\SistemaFilmes.styles.css
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\projectbundle\SistemaFilmes.bundle.scp.css
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.CopyComplete
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.dll
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\refint\SistemaFilmes.dll
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.pdb
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.genruntimeconfig.cache
+G:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\ref\SistemaFilmes.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\appsettings.Development.json
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\appsettings.json
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.staticwebassets.runtime.json
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.exe
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.deps.json
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.runtimeconfig.json
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\SistemaFilmes.pdb
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Humanizer.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\MessagePack.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Common.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SistemaFilmes\SistemaFilmes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.AssemblyReference.cache
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.AssemblyInfoInputs.cache
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.AssemblyInfo.cs
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.CoreCompileInputs.cache
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.MvcApplicationPartsAssemblyInfo.cs
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.MvcApplicationPartsAssemblyInfo.cache
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.RazorAssemblyInfo.cache
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.RazorAssemblyInfo.cs
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\staticwebassets.build.json
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\staticwebassets.development.json
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\bundle\SistemaFilmes.styles.css
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\scopedcss\projectbundle\SistemaFilmes.bundle.scp.css
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.csproj.CopyComplete
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.dll
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\refint\SistemaFilmes.dll
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.pdb
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\SistemaFilmes.genruntimeconfig.cache
+D:\SistemaFilmes\SistemaFilmes\obj\Debug\net6.0\ref\SistemaFilmes.dll

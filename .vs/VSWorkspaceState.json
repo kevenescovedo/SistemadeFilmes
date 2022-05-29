@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaFilmes",
+    "\\SistemaFilmes\\Areas",
+    "\\SistemaFilmes\\Areas\\Identity",
+    "\\SistemaFilmes\\Areas\\Identity\\Data",
+    "\\SistemaFilmes\\Data"
+  ],
+  "SelectedNode": "\\SistemaFilmes\\Data\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
